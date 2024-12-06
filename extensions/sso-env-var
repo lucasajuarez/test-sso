@@ -1,5 +1,5 @@
 Acceso a Oracle Desarrollo:
-usuario: USR_REDHAT_SSO
-clave: sSOKey#2023
-host: 192.168.20.31
-servicio: DESA
+usuario: sso_user
+clave: sso_user
+host: 10.0.3.9
+servicio: sso
