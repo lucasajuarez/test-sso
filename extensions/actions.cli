@@ -6,7 +6,7 @@ set DB_USERNAME=sso_user
 set DB_PASSWORD=sso_user
 set DB_DRIVER=org.postgresql.Driver
 set DB_XA_DRIVER=org.postgresql.xa.PGXADataSource
-set DB_JDBC_URL=jdbc:postgres:thin:@10.0.3.9:5432/sso
+set DB_JDBC_URL=jdbc:postgres://10.0.3.9:5432/sso
 set DB_EAP_MODULE=com.postgres
 set FILE=/opt/eap/modules/system/layers/openshift/org/postgresql/main/postgresql-jdbc.jar
 
