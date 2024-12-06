@@ -1,5 +1,5 @@
 Acceso a Oracle Desarrollo:
 usuario: sso_user
-clave: sso_users
+clave: sso_user
 host: 10.0.3.9
 servicio: sso

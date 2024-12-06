@@ -3,7 +3,7 @@ embed-server --std-out=echo --server-config=standalone-openshift.xml
 batch
 set DB_DRIVER_NAME=postgresql
 set DB_USERNAME=sso_user
-set DB_PASSWORD=sso_users
+set DB_PASSWORD=sso_user
 set DB_DRIVER=org.postgresql.Driver
 set DB_XA_DRIVER=org.postgresql.xa.PGXADataSource
 set DB_JDBC_URL=jdbc:postgresql://10.0.3.9:5432/sso
