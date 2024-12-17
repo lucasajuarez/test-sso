@@ -6,7 +6,7 @@ set DB_USERNAME=openshiftrvdv
 set DB_PASSWORD=OCP2k24
 set DB_DRIVER=org.postgresql.Driver
 set DB_XA_DRIVER=org.postgresql.xa.PGXADataSource
-set DB_JDBC_URL=jdbc:postgresql://192.168.60.56:5432/sso
+set DB_JDBC_URL=jdbc:postgresql://192.168.60.56:5432/ssoprod
 set DB_EAP_MODULE=com.postgresql
 set FILE=/opt/eap/modules/system/layers/openshift/org/postgresql/main/postgresql-jdbc.jar
 

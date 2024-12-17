@@ -2,4 +2,4 @@ Acceso a Oracle Desarrollo:
 usuario: openshiftrvdv
 clave: OCP2k24
 host: 192.168.60.56
-servicio: sso
+servicio: ssoprod
